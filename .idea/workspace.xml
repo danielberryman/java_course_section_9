@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff5084ef-3e27-40aa-97f9-b004be51dab6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/BarkingDog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/out/production/BarkingDog/BarkingDog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/out/production/BarkingDog/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/DecimalComparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/out/production/DecimalComparator/DecimalComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/out/production/DecimalComparator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/src/DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualSunChecker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualSunChecker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualSunChecker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualSunChecker/EqualSunChecker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualSunChecker/out/production/EqualSunChecker/EqualSumChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualSunChecker/out/production/EqualSunChecker/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualSunChecker/src/EqualSumChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EqualSunChecker/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/KeywordsAndExpressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/danielberryman/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/src/com/danielberryman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/LeapYearCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/out/production/LeapYearCalculator/LeapYearCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/out/production/LeapYearCalculator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/src/LeapYearCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/MegaBytesConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/out/production/MegaBytesConverter/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/out/production/MegaBytesConverter/MegaBytesConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/out/production/Operators/com/danielberryman/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/com/danielberryman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge/Section7_master_challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge/out/production/Section7_master_challenge/Hamburger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge/out/production/Section7_master_challenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge/src/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7_master_challenge_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/Section8_array_list_challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/out/production/Section8_array_list_challenge/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/out/production/Section8_array_list_challenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/out/production/Section8_array_list_challenge/MobilePhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/src/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/experiment/IAbleToAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/experiment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intefacechallenge/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intefacechallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intefacechallenge/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intefacechallenge/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/MainAlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interfaces/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/SpeedConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/out/production/SpeedConverter/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/out/production/SpeedConverter/SpeedConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/src/SpeedConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StatementsWhitespaceIndenting/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StatementsWhitespaceIndenting/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StatementsWhitespaceIndenting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StatementsWhitespaceIndenting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StatementsWhitespaceIndenting/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StatementsWhitespaceIndenting/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StatementsWhitespaceIndenting/StatementsWhitespaceIndenting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StatementsWhitespaceIndenting/src/com/danielberryman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/TeenNumberChecker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/out/production/TeenNumberChecker/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/out/production/TeenNumberChecker/TeenNumberChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/src/TeenNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/coding_exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/out/production/coding_exercises/com/danielberryman/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_exercises/src/com/danielberryman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlistexplorations/src/com/rocks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlistexplorations/src/com/rocksClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlistexplorations/src/com/rocksClass/Rock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/danielberryman/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/danielberryman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/experiment/IAbleToAdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/experiment/Num.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/experiment/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/Monster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#597#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/ISaveable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/interfaces/MainAlt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/interfaces/ITelephone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/interfaces/ITelephone.java" />
+        <option value="$PROJECT_DIR$/src/com/interfaces/DeskPhone.java" />
+        <option value="$PROJECT_DIR$/src/com/interfaces/MobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/com/interfaces/MainAlt.java" />
+        <option value="$PROJECT_DIR$/src/com/interfaces/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/intefacechallenge/ISaveable.java" />
+        <option value="$PROJECT_DIR$/src/com/intefacechallenge/Monster.java" />
+        <option value="$PROJECT_DIR$/src/com/intefacechallenge/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/intefacechallenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/experiment/Num.java" />
+        <option value="$PROJECT_DIR$/src/com/experiment/IAbleToAdd.java" />
+        <option value="$PROJECT_DIR$/src/com/experiment/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1879" />
+    <option name="y" value="39" />
+    <option name="width" value="1839" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Section9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Section9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Section9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Section9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="experiment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Section9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intefacechallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/intefacechallenge" />
+      <recent name="$PROJECT_DIR$/src/com/interfaces" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.intefacechallenge.Main" />
+      <module name="Section9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.intefacechallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.experiment.Main" />
+      <module name="Section9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.experiment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interfaces.Main" />
+      <module name="Section9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAlt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interfaces.MainAlt" />
+      <module name="Section9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.MainAlt" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff5084ef-3e27-40aa-97f9-b004be51dab6" name="Default Changelist" comment="" />
+      <created>1563897944463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563897944463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1862" y="33" width="1839" height="994" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25208682" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49972177" weight="0.32992035" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" x="-1902" y="644" width="918" height="317" id="Run" order="10" sideWeight="0.50027823" side_tool="true" visible="true" weight="0.32992035" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/interfaces/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/interfaces/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/interfaces/DeskPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4124">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/interfaces/MainAlt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/interfaces/ITelephone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/Main 2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/ISaveable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/experiment/Num.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/experiment/IAbleToAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/experiment/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/intefacechallenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
